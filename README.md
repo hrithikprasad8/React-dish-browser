@@ -23,7 +23,7 @@ This is a Dish Browsing web application developed using React.js, JavaScript, HT
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/react-food-cart.git
+    git clone https://github.com/hrithikprasad8/React-dish-browser.git
     ```
 
 2. Navigate to the project directory:
